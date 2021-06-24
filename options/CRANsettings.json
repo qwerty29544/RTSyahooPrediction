@@ -1,0 +1,4 @@
+{
+  "CRAN_Mirror_URL":"https://cran.r-project.org/",
+  "packages": ["jsonlite", "quantmod", "ggplot2", "zoo", "xts"]
+}

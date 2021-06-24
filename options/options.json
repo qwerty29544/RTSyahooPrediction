@@ -1,0 +1,9 @@
+{
+  "Epochs": 100,
+  "CrossValStages": 5,
+  "CrossValVolume": 0.1,
+  "FutureDays":10,
+  "TimeWindowHistoryWidth":30,
+  "TrainPreModelDays":1200,
+  "TrainMainModelDays":300
+}
